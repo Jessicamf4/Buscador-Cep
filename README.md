@@ -1,5 +1,9 @@
-# Getting Started with Create React App
+# Buscador de CEP
 
+Esse projeto foi feito usando a biblioteca React e também o uso de uma API para realizar a busca de CEP. 
+Para acessar o projeto uso o seguinte link: ![image](https://user-images.githubusercontent.com/102704266/234403516-1b5c1f30-ba04-45d5-b78e-3bfa84602b16.png)
+
+<img src="Cep.png">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
